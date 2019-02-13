@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Leos
 
-You can use the [editor on GitHub](https://github.com/leos74/about-leos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Why not just HTML?
+IDK.
+### And what?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+NO programming? 
+BAD!
 ```markdown
-Syntax highlighted code block
+<meta name="viewport" content="width=device-width">
+  
+  <title>Editing about-leos/README.md at master · leos74/about-leos</title>
+    <meta name="description" content="My personal site. Made for experiments. Contribute to leos74/about-leos development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
 
-# Header 1
-## Header 2
-### Header 3
+    
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/47580222?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="leos74/about-leos" /><meta property="og:url" content="https://github.com/leos74/about-leos" /><meta property="og:description" content="My personal site. Made for experiments. Contribute to leos74/about-leos development by creating an account on GitHub." />
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  <link rel="assets" href="https://github.githubassets.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzcyNzk2NjYwOmFhYTQ5NWFlOTExNjdmMzFlMGQ3YzM2YzUwZTU2NTJjZDc5YTA3OWM1ZDM4NDg5YWQ2OTNmZjhhZDAxODdjM2E=--6c5fb92bbad8320c550076ac6e8ef4b7e7605818">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="D60B:27D7:A5F41:11983B:5C635FF3" data-pjax-transient>
 ```
+# We
+## Do
+### WriteCode
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- |i have a shield
+- ȉ̸͙͇̯ ̶̦̳̖̎̔͐d̷̪̈́͆̍ō̶̖̪̗̚̚ṋ̷̿t̸͖͆
+1. numbar UNO
+2. two
+3. STOP
 
-### Jekyll Themes
+**Bald** _Italian_ is `coding`(notme)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leos74/about-leos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Link](url=https://google.com) and ![Image](https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png) are my friendz!
 
-### Support or Contact
+For more details watch
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+nope
+
+### jojo
+
+YOur usport of nonsense is ready!
+
+Having bubble with Soap? Check out our [water](https://water.com) or [fire](https://fire.com/) and we’ll help you help it helpout.
