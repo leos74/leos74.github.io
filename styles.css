@@ -13,10 +13,9 @@
   text-decoration: none;
   text-indent: 15px;
   text-transform: none;
-  background-image: url(img1.png);
+  background-image: url(bg.jpg);
   background-repeat: repeat;
   background-position: left top;
   background-attachment: scroll;
   position: static;
-  cursor: default;
   }
