@@ -19,3 +19,28 @@
   background-attachment: scroll;
   position: static;
 }
+ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  float: center;
+  list-style-type: none;
+}
+a {
+  float: center;
+  width: 210px;
+  height: 32px;
+  color: #ffffff;
+  padding: 5px 8px;
+  font-family: Arial;
+  text-decoration: none;
+  background-color: #00ffc7;
+  border-right: 5px solid white; 
+}
+a:hover {
+  background-color: #008467;
+}
+li {
+ display: inline;
+}
+
