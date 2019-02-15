@@ -25,6 +25,7 @@ ul {
   width: 100%;
   float: center;
   list-style-type: none;
+  display: inline-block;
 }
 a {
   float: center;
@@ -41,6 +42,6 @@ a:hover {
   background-color: #008467;
 }
 li {
- display: inline;
+ display: inline-block;
 }
 
