@@ -46,7 +46,7 @@ ul {
   display: inline-block;
 }
 a {
-  float: center;
+  margin: auto;
   width: 210px;
   height: 32px;
   color: #ffffff;
